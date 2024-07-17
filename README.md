@@ -1,6 +1,6 @@
 Foro Hub - Challenge
 
-Este proyecto es una aplicación de Spring Boot que proporciona una API REST
+El objetivo de este proyecto es crear una API REST
 para gestionar un hub de topicos. La aplicación utiliza PostgreSQL como base de datos para almacenar los topicos y se ha probado utilizando Insomnia.
 
 Se hizo un CRUD(crear, leer, actualizar y eliminar) para gestionar los topicos.
